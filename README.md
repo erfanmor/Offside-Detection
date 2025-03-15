@@ -26,5 +26,6 @@
 
 
 ### See examples of this tool in the images below.
-![[./images/offside.jpg]]
-![[./images/sample_final.jpg]]
+"https://github.com/erfanmor/Offside-Detection/tree/main/images/offside.jpg?raw=True"
+<img src="https://github.com/erfanmor/Offside-Detection/tree/main/images/offside.jpg?raw=True" alt="match" height="300px"/> 
+<img src="https://github.com/erfanmor/Offside-Detection/tree/main/images/sample_final.jpg?raw=True" alt="offside detection" height="300px"/> 
